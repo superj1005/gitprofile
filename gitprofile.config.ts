@@ -32,7 +32,7 @@ const CONFIG = {
           'janisar007/dream-house',
           'janisar007/threads_app',
           'janisar007/githubcenter-client',
-          'janisar007/amazon-clone',
+          'janisar007/blogai',
           'janisar007/me-tubee',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
