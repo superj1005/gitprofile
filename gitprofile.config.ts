@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'janisar007', // Your GitHub org/user name. (This is the only required config)
+    username: 'superj1005', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -26,14 +26,16 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
-          'janisar007/vidly',
-          'janisar007/Journal-app',
-          'janisar007/github-center-api',
-          'janisar007/dream-house',
-          'janisar007/threads_app',
-          'janisar007/githubcenter-client',
-          'janisar007/blogai',
-          'janisar007/me-tubee',
+          'superj1005/github-center-api',
+          'superj1005/githubcenter-client',
+          'superj1005/Colonelz-frontend',
+          'superj1005/colonelz-backend',
+          'superj1005/vidly',
+          'superj1005/Journal-app',
+          'superj1005/dream-house',
+          'superj1005/threads_app',
+          'superj1005/blogai',
+          'superj1005/me-tubee',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -47,7 +49,7 @@ const CONFIG = {
           imageUrl:
             'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Fgpost.jpg?alt=media&token=923460d9-9db2-4964-af9e-90b2ab41a2fd',
           link: 'https://githubcenter.vercel.app',
-          glink: 'https://github.com/janisar007/githubcenter-client',
+          glink: 'https://github.com/superj1005/githubcenter-client',
           tech: [
             'Reactjs, Nodejs',
             'Tailwind',
@@ -55,6 +57,54 @@ const CONFIG = {
             'Github API',
             'Gemini API',
             'Expressjs',
+          ],
+        },
+        {
+          title: 'Colonelz CRM',
+          description: `A scalable CRM application designed to manage **1,200+ users** and **8,000+ tasks** with structured workflows. Features include **lead-to-project tracking**, task management, role-based access control (RBAC), and timeline visualization. Implemented **secure communication**, distributed logging, and fail-safe request handling to ensure reliability and data consistency.`,
+          imageUrl:
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1777880575/colo_w7vcwf.jpg',
+          link: 'https://colonelz-frontend-one.vercel.app/',
+          glink: 'https://github.com/superj1005/Colonelz-frontend',
+          tech: [
+            'Reactjs, Nodejs',
+            'MongoDB',
+            'TypeScript',
+            'Redux',
+            'Tailwind CSS',
+            'Expressjs',
+          ],
+        },
+        {
+          title: 'BlogAI',
+          description: `An AI-powered blogging platform that allows users to create, edit, and publish blogs with a rich-text editor and **multi-level comments**. Includes AI features to **auto-generate full blogs** and suggest trending keywords, reducing content creation time. Built with **SEO-friendly server-side rendering** using meta tags and structured content for improved visibility.`,
+          imageUrl:
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1756463697/mern_uploads/mzmtch35hurp0k4sjlne.png',
+          link: 'https://blogai-rose.vercel.app',
+          glink: 'https://github.com/superj1005/blogai',
+          tech: [ 
+            'Reactjs, Nodejs',
+            'MongoDB',
+            'Expressjs',
+            'JavaScript',
+            'Redux',
+            'Tailwind CSS',
+          ],
+        },
+        {
+          title: 'Initializ Deployment SaaS',
+          description: `A full-stack deployment platform similar to Vercel, enabling developers to push code and get **instant cloud deployments**. Contributed to backend services managing **500+ daily deployments**, including build pipelines, domain mapping, and serverless execution. Built UI for deployment history, logs, and environment configs, and worked on **Docker-based builds** with AWS ECS scaling for improved reliability.`,
+          imageUrl:
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1777880559/initial_wxwhjc.jpg',
+          link: 'https://www.initializ.ai/',
+          glink: 'https://www.initializ.ai/',
+          tech: [
+            'Reactjs, Nodejs',
+            'MongoDB',
+            'TypeScript',
+            'Docker',
+            'AWS ECS',
+            'S3',
           ],
         },
 
@@ -65,7 +115,7 @@ const CONFIG = {
           imageUrl:
             'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Fdpost.jpg?alt=media&token=f2b494d9-bb0e-419a-be79-c0a7bfdba18d',
           link: 'https://dream-house-y0uy.onrender.com',
-          glink: 'https://github.com/janisar007/dream-house',
+          glink: 'https://github.com/superj1005/dream-house',
           tech: [
             'Reactjs',
             'Nodejs',
@@ -84,7 +134,7 @@ const CONFIG = {
           imageUrl:
             'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Fypost.jpg?alt=media&token=079562b1-87cb-482f-ab0a-dc42dce4009b',
           link: 'https://me-tube-pro.web.app/',
-          glink: 'https://github.com/janisar007/me-tubee',
+          glink: 'https://github.com/superj1005/me-tubee',
           tech: [
             'Reactjs',
             'Youtube API',
@@ -101,7 +151,7 @@ const CONFIG = {
           imageUrl:
             'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Ftpost.jpg?alt=media&token=a3a70116-c105-40f0-8680-32babb204e75',
           link: 'https://threads-app-flame-seven.vercel.app',
-          glink: 'https://github.com/janisar007/threads_app',
+          glink: 'https://github.com/superj1005/threads_app',
           tech: [
             'Nextjs',
             'Nodejs',
@@ -119,7 +169,7 @@ const CONFIG = {
   seo: { title: 'Portfolio of Janisar Akhtar', description: '', imageURL: '' },
   social: {
     linkedin: 'janisar007',
-    x: 'janisar_007',
+    x: 'janisuppi',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -169,7 +219,7 @@ const CONFIG = {
       position: 'Software Engineer Intern',
       from: 'May 2024',
       to: 'April 2025',
-      companyLink: 'https://example.com',
+      companyLink: 'https://initializ.ai/',
     },
     // {
     //   company: 'Company Name',
@@ -295,7 +345,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/janisar007/gitprofile"
+      class="text-primary" href="https://github.com/superj1005/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
