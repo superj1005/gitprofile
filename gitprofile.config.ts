@@ -47,7 +47,7 @@ const CONFIG = {
           title: 'Github Center',
           description: `A GitHub PR management platform with **multi-account** support and a centralized dashboard to view and organize repos. Features include **workflow monitoring**, pull request tracking, repo grouping, and one-click PR navigation with an **AI-powered PR assistant** that reviews code, **suggests improvements**, recommends test cases, and auto-generates commit details.`,
           imageUrl:
-            'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Fgpost.jpg?alt=media&token=923460d9-9db2-4964-af9e-90b2ab41a2fd',
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1777881133/final_gc_logo_y1pqvc.jpg',
           link: 'https://githubcenter.vercel.app',
           glink: 'https://github.com/superj1005/githubcenter-client',
           tech: [
@@ -113,7 +113,7 @@ const CONFIG = {
           description:
             'A **real estate marketplace** where users can list and manage properties for sale or rent. Built an **advanced search** system with **6+ dynamic filters** (location, price, property type, etc.), improving property discovery efficiency by **70%**. Designed the platform to **support 1000+ property** listings with a seamless, centralized experience for buyers and sellers.',
           imageUrl:
-            'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Fdpost.jpg?alt=media&token=f2b494d9-bb0e-419a-be79-c0a7bfdba18d',
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1777881302/dream_house_gdqfeq.jpg',
           link: 'https://dream-house-y0uy.onrender.com',
           glink: 'https://github.com/superj1005/dream-house',
           tech: [
@@ -132,7 +132,7 @@ const CONFIG = {
           description:
             'A YouTube Clone using React.js, Redux, Node.js, and **SASS**, integrated with the YouTube API. The platform enables users to search, watch, and interact with videos through comments, replicating **core YouTube functionalities**. Designed with a scalable frontend and efficient state management, it delivers a **smooth video streaming experience**.',
           imageUrl:
-            'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Fypost.jpg?alt=media&token=079562b1-87cb-482f-ab0a-dc42dce4009b',
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1777881423/yt_kfzbc7.jpg',
           link: 'https://me-tube-pro.web.app/',
           glink: 'https://github.com/superj1005/me-tubee',
           tech: [
@@ -149,7 +149,7 @@ const CONFIG = {
           description:
             'It is a Threads Clone using Next.js, Node.js, Clerk, and TypeScript, featuring **robust authentication** and scalable **community management** that reduced account-related issues by 30%. Implemented **multi-level commenting**, increasing user engagement by 30% while supporting high concurrency. Additionally, I integrated advanced moderation pipelines to proactively **detect fraudulent activities** and ensure a safe community experience.',
           imageUrl:
-            'https://firebasestorage.googleapis.com/v0/b/my-portfolio-c2d51.appspot.com/o/gitportfolio%2Ftpost.jpg?alt=media&token=a3a70116-c105-40f0-8680-32babb204e75',
+            'https://res.cloudinary.com/dblftsuim/image/upload/v1777881599/thread_ovppjv.jpg',
           link: 'https://threads-app-flame-seven.vercel.app',
           glink: 'https://github.com/superj1005/threads_app',
           tech: [
