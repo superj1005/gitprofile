@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'janisarakhtar', // Your GitHub org/user name. (This is the only required config)
+    username: 'janisarakhtakkkk', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -168,8 +168,8 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Janisar Akhtar', description: '', imageURL: '' },
   social: {
-    linkedin: 'janisar007',
-    x: 'janisuppi',
+    linkedin: 'janisaransari',
+    x: 'xjanisarakhtar',
     mastodon: '',
     researchGate: '',
     facebook: '',
