@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'superj1005', // Your GitHub org/user name. (This is the only required config)
+    username: 'janisarakhtar', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -26,16 +26,16 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
-          'superj1005/github-center-api',
-          'superj1005/githubcenter-client',
-          'superj1005/Colonelz-frontend',
-          'superj1005/colonelz-backend',
-          'superj1005/vidly',
-          'superj1005/Journal-app',
-          'superj1005/dream-house',
-          'superj1005/threads_app',
-          'superj1005/blogai',
-          'superj1005/me-tubee',
+          'janisarakhtar/github-center-api',
+          'janisarakhtar/githubcenter-client',
+          'janisarakhtar/Colonelz-frontend',
+          'janisarakhtar/colonelz-backend',
+          'janisarakhtar/vidly',
+          'janisarakhtar/Journal-app',
+          'janisarakhtar/dream-house',
+          'janisarakhtar/threads_app',
+          'janisarakhtar/blogai',
+          'janisarakhtar/me-tubee',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -49,7 +49,7 @@ const CONFIG = {
           imageUrl:
             'https://res.cloudinary.com/dblftsuim/image/upload/v1777881133/final_gc_logo_y1pqvc.jpg',
           link: 'https://githubcenter.vercel.app',
-          glink: 'https://github.com/superj1005/githubcenter-client',
+          glink: 'https://github.com/janisarakhtar/githubcenter-client',
           tech: [
             'Reactjs, Nodejs',
             'Tailwind',
@@ -65,7 +65,7 @@ const CONFIG = {
           imageUrl:
             'https://res.cloudinary.com/dblftsuim/image/upload/v1777880575/colo_w7vcwf.jpg',
           link: 'https://colonelz-frontend-one.vercel.app/',
-          glink: 'https://github.com/superj1005/Colonelz-frontend',
+          glink: 'https://github.com/janisarakhtar/Colonelz-frontend',
           tech: [
             'Reactjs, Nodejs',
             'MongoDB',
@@ -81,7 +81,7 @@ const CONFIG = {
           imageUrl:
             'https://res.cloudinary.com/dblftsuim/image/upload/v1756463697/mern_uploads/mzmtch35hurp0k4sjlne.png',
           link: 'https://blogai-rose.vercel.app',
-          glink: 'https://github.com/superj1005/blogai',
+          glink: 'https://github.com/janisarakhtar/blogai',
           tech: [ 
             'Reactjs, Nodejs',
             'MongoDB',
@@ -115,7 +115,7 @@ const CONFIG = {
           imageUrl:
             'https://res.cloudinary.com/dblftsuim/image/upload/v1777881302/dream_house_gdqfeq.jpg',
           link: 'https://dream-house-y0uy.onrender.com',
-          glink: 'https://github.com/superj1005/dream-house',
+          glink: 'https://github.com/janisarakhtar/dream-house',
           tech: [
             'Reactjs',
             'Nodejs',
@@ -134,7 +134,7 @@ const CONFIG = {
           imageUrl:
             'https://res.cloudinary.com/dblftsuim/image/upload/v1777881423/yt_kfzbc7.jpg',
           link: 'https://me-tube-pro.web.app/',
-          glink: 'https://github.com/superj1005/me-tubee',
+          glink: 'https://github.com/janisarakhtar/me-tubee',
           tech: [
             'Reactjs',
             'Youtube API',
@@ -151,7 +151,7 @@ const CONFIG = {
           imageUrl:
             'https://res.cloudinary.com/dblftsuim/image/upload/v1777881599/thread_ovppjv.jpg',
           link: 'https://threads-app-flame-seven.vercel.app',
-          glink: 'https://github.com/superj1005/threads_app',
+          glink: 'https://github.com/janisarakhtar/threads_app',
           tech: [
             'Nextjs',
             'Nodejs',
@@ -345,7 +345,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/superj1005/gitprofile"
+      class="text-primary" href="https://github.com/janisarakhtar/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
